@@ -4,3 +4,4 @@ gemspec
 gem 'jekyll-paginate'
 gem 'classifier-reborn'
 gem 'jekyll-sitemap'
+gem "semantic-jekyll"
