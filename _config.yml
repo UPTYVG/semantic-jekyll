@@ -23,7 +23,7 @@ contact:
 
 twitter_username: fibasile
 github_username:  fibasile
-
+theme: semantic-jekyll
 # Build settings
 markdown: kramdown
 
